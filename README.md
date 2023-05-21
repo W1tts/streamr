@@ -1,1 +1,1 @@
-# streamarr
+# streamr
